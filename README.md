@@ -1,7 +1,5 @@
 # Testing with Jest
 
----
-
 ### To start:
 
 - Clone repo
